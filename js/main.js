@@ -59,3 +59,7 @@ var createBoard = function() {
 
 createBoard();
 
+function doOver () {
+    location.reload();
+}
+

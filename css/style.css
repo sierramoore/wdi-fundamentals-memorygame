@@ -85,3 +85,9 @@ a {
 a:hover{
     border-bottom: 2px solid white;
 }
+input{
+    width: 10%;
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
